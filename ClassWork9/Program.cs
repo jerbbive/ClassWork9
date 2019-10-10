@@ -6,6 +6,16 @@ using System.Threading.Tasks;
 
 namespace ClassWork9
 {
+    class FindPiThread
+    {
+        int darts;
+        int dartCount;
+        
+        public FindPiThread(int darts)
+        {
+
+        }
+    }
     class Program
     {
         static void Main(string[] args)
